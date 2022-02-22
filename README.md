@@ -6,5 +6,5 @@
 
 | Command  | Image |
 | ------------- | ------------- |
-| >about  | (https://github.com/Soham13U/RyuBot/blob/master/Images/about.JPG)  |
+| >about  | ![t](https://github.com/Soham13U/RyuBot/blob/master/Images/about.JPG)  |
 | >help  | Content Cell  |
