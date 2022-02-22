@@ -4,4 +4,7 @@
 * Anime related
 * ## Prefix is > ##
 
-* Command- > >about
+| Command  | Image |
+| ------------- | ------------- |
+| >about  | Content Cell  |
+| >help  | Content Cell  |
