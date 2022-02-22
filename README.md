@@ -7,4 +7,7 @@
 | Command  | Image |
 | ------------- | ------------- |
 | >about  | ![t](https://github.com/Soham13U/RyuBot/blob/master/Images/about.JPG)  |
-| >help  | Content Cell  |
+| >help  | ![t](https://github.com/Soham13U/RyuBot/blob/master/Images/help.JPG)  |
+| >ansearch  | ![t](https://github.com/Soham13U/RyuBot/blob/master/Images/ansearch.JPG)  |
+| >masearch  | ![t](https://github.com/Soham13U/RyuBot/blob/master/Images/masearch.JPG) |
+| >usearch  | ![t](https://github.com/Soham13U/RyuBot/blob/master/Images/usearch.JPG)  |
