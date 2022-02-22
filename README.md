@@ -4,4 +4,4 @@
 * Anime related
 * ## Prefix is > ##
 
-* > About
+* Command- > >about
